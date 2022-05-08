@@ -26,7 +26,7 @@
         "title": "Dark Meadow: The Pact",
         "image": "https://usercontent2.hubstatic.com/6961601.jpg",
 		
-        "color": "#oooooo",
+        "color": "#000000",
         "text_size": "25",
         "isLink": false,
 		"link_title": "",
@@ -42,9 +42,9 @@
 		"color": "#000000",
         "text_size": "25",
         "isLink": false,
-		"link_title": "",
-		"setLink": "",
-        "image_link": "",
+		"link_title": "get vbuks",
+		"setLink": "https://www.google.com",
+        "image_link": "https://www.google.com",
         "text": "Dark Meadow : The Pact",
         "isNative": false
       },
