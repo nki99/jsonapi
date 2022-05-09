@@ -41,12 +41,12 @@
         "image": "https://usercontent1.hubstatic.com/8037694.jpg",
 		"color": "#000000",
         "text_size": "25",
-        "isLink": true,
+        "isLink": false,
 		"link_title": "get vbuks",
 		"setLink": "https://www.google.com",
         "image_link": "https://www.google.com",
         "text": "Dark Meadow : The Pact",
-        "isNative": true
+        "isNative": false
       },
       {
         "title": "Call of Cthulhu: Wasted Land ",
