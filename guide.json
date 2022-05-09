@@ -34,7 +34,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-	"background":"#00FF00"	
+	"background":"#2df6fc"	
       },
       {
         "title": "The Old 2",
@@ -42,12 +42,12 @@
 		"color": "#000000",
         "text_size": "18",
         "isLink": true,
-		"link_title": "get vbuks",
+		"link_title": " get vbuks",
 		"setLink": "https://www.google.com",
         "image_link": "https://www.google.com",
         "text": "Dark Meadow 51_29921438433248Dark Meadow 51_29921438433248BDark Meadow 51_29921438433248BDark Meadow 51_29921438433248BDark Meadow 51_29921438433248BDark Meadow 51_29921438433248BDark Meadow 51_29921438433248BDark Meadow 51_29921438433248BDark Meadow 51_29921438433248BDark Meadow 51_29921438433248BDark Meadow 51_29921438433248BDark Meadow 51_29921438433248BDark Meadow 51_29921438433248BDark Meadow 51_29921438433248BDark Meadow 51_29921438433248BDark Meadow 51_29921438433248BDark Meadow 51_29921438433248BDark Meadow 51_29921438433248BDark Meadow 51_29921438433248BDark Meadow 51_29921438433248BDark Meadow 51_29921438433248BDark Meadow 51_29921438433248BDark Meadow 51_29921438433248BDark Meadow 51_29921438433248BDark Meadow 51_29921438433248BDark Meadow 51_29921438433248BDark Meadow 51_29921438433248BB",
         "isNative": false,
-	"background":"#00FF00"	
+	"background":"#2df6fc"	
       },
       {
         "title": "Call of Cthulhu: Wasted Land ",
@@ -60,7 +60,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
        "isNative": false,
-	"background":"#00FF00"	
+	"background":"#2df6fc"	
       },
       {
         "title": "Dead Space Android",
@@ -73,7 +73,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-	"background":"#00FF00"	
+	"background":"#2df6fc"	
       },
       {
         "title": "Bloody Mary",
@@ -86,7 +86,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-	"background":"#00FF00"	
+	"background":"#2df6fc"	
       },
       {
         "title": "Twisted Lands: Shadow Town",
@@ -99,7 +99,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-	"background":"#00FF00"	
+	"background":"#2df6fc"	
       }
     ]
 
