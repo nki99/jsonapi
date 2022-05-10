@@ -6,9 +6,9 @@
       {
         "NetworkAds": "admob",
 
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "BannerAdmob": "ca-app-pub-9202198455865801/8902349032",
+        "InterstitialAdmob": "ca-app-pub-9202198455865801/8766633577",
+        "NativeAdmob": "ca-app-pub-9202198455865801/5778869272",
 
         
         "ImageBanner": false,
