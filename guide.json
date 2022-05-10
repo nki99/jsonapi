@@ -5,16 +5,13 @@
     "AdsController": [
       {
         "NetworkAds": "admob",
-        "AdMobId": "ca-app-pub-9202198455865801~8383474287",
 
         "BannerAdmob": "ca-app-pub-9202198455865801/8902349032",
         "InterstitialAdmob": "ca-app-pub-9202198455865801/8766633577",
         "NativeAdmob": "ca-app-pub-9202198455865801/5778869272",
 
-        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
-        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
-        "NativeFacebook": "173186393601951_356298065290782",
-        "ImageBanner": true,
+        
+        "ImageBanner": false,
         "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
         "ImageBannerURL" : "https://www.google.com"
 		
