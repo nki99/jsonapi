@@ -2,7 +2,7 @@
   "GuideData": {
 
 
-    "AdsController": [
+    "AdsController": 
       {
         "NetworkAds": "",
 
@@ -16,7 +16,7 @@
         "ImageBannerURL" : "https://www.google.com"
 		
       }
-    ],
+    ,
 
     "items": [
       {
