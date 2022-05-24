@@ -14,9 +14,9 @@
 	"maxInterstitial":"41fa9cc27c59d319",
 	"maxNative":"41fa9cc27c59d319",
 	      
-        "ImageBanner": true,
-        "ImageBannerImg" : "https://i.imgur.com/P4O8zOR.gif",
-        "ImageBannerURL" : "https://www.google.com"
+        "Cpabanner": true,
+        "Urlimage" : "https://i.imgur.com/P4O8zOR.gif",
+        "ImageLink" : "https://www.google.com"
 		
       }
     ,
